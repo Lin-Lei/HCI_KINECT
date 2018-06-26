@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HCI_PJT/HCI_PJT.unity
+  isLoaded: 1
+  isActive: 1

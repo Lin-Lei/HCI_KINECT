@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI_KINECT", "Assembly-CSharp-firstpass.csproj", "{FD584859-709D-CB0D-1029-B33BDDEF0152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI_KINECT", "Assembly-CSharp.csproj", "{87719843-60A2-5A3A-FF57-FE8376D1A583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HCI_KINECT", "Assembly-CSharp-Editor-firstpass.csproj", "{E50C6A91-E54A-5D6F-D538-4D5C4D1963A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD584859-709D-CB0D-1029-B33BDDEF0152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD584859-709D-CB0D-1029-B33BDDEF0152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD584859-709D-CB0D-1029-B33BDDEF0152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD584859-709D-CB0D-1029-B33BDDEF0152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87719843-60A2-5A3A-FF57-FE8376D1A583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87719843-60A2-5A3A-FF57-FE8376D1A583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87719843-60A2-5A3A-FF57-FE8376D1A583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87719843-60A2-5A3A-FF57-FE8376D1A583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50C6A91-E54A-5D6F-D538-4D5C4D1963A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50C6A91-E54A-5D6F-D538-4D5C4D1963A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50C6A91-E54A-5D6F-D538-4D5C4D1963A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50C6A91-E54A-5D6F-D538-4D5C4D1963A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
